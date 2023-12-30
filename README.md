@@ -12,5 +12,10 @@ At the time being, the chatbot has no internet access. Data has been saved local
 ```
 
 ## Chat examples
-Here are some examples of interaction with the chatbot.
-...
+Here are some examples of interactions with the chatbot.
+
+![Alt Text](images/chat_example_1.png?raw=true "Chat example 1")
+
+![Alt Text](images/chat_example_2.png?raw=true "Chat example 2")
+
+![Alt Text](images/chat_example_3.png?raw=true "Chat example 3")
